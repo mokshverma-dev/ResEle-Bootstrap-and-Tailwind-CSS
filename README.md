@@ -1,2 +1,2 @@
-# ResEle-Bootstrap-and-Tailwind-CSS
+# ResEle
 ResEle a Combo Flavor of (Bootstrap and Tailwind CSS)
