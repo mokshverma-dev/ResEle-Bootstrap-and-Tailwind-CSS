@@ -1,0 +1,67 @@
+<!-- Navbar -->
+<nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+        <!-- Tabs -->
+        <ul class="nav nav-pills">
+            <!-- Main Site Link -->
+            <a href="https://www.resoorces.com/" class="navbar-brand">Resoorces.com</a>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <li class="nav-item">
+                <a class="nav-link " aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="#">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    Dropdown
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li>
+                        <hr class="dropdown-divider">
+                    </li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+            </li>
+        </ul>
+
+        <!-- Logo -->
+        <ul class="nav justify-content-center">
+            <nav class="navbar navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="#">
+                        <img src="#" alt="" width="30" height="24">
+                    </a>
+                </div>
+            </nav>
+        </ul>
+
+        <!-- Search Bar -->
+        <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+
+            <!-- Login -->
+            <button type="button" class="btn btn-primary">Login</button>
+
+            &nbsp;
+            &nbsp;
+
+        </form>
+    </div>
+</nav>
