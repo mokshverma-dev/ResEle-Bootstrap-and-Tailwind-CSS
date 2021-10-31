@@ -1,5 +1,6 @@
 
-![Logo](https://lh4.googleusercontent.com/YVmqhgwKdvfi9fjhHwqFccEdlHsQkEop0JYqujI6TEfkF7HqrcVl5zFxbABTYB-iBFG31lVu9uLxp3gRI4DbSuw8L0nLLS6NcWMYv7SxIU_IPN3h7_WfbKHsBaYzRNt-qA=w1280)
+![Logo]![ResEle](https://user-images.githubusercontent.com/72500226/139571032-d1469bab-f475-4a03-88d2-c80464e06101.png)
+)
 
 
 # ResEle -Combination of Bootstrap and TailwindCSS
