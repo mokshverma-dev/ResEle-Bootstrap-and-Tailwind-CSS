@@ -2,10 +2,6 @@
 ![ResEle](https://user-images.githubusercontent.com/72500226/139571032-d1469bab-f475-4a03-88d2-c80464e06101.png)
 
 
-
-
-
-
 # ResEle -Combination of Bootstrap and TailwindCSS
 
 ResEle is a Collection of Elements Created by Bootstrap and TailwindCSS. 
