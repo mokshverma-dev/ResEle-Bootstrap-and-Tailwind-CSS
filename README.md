@@ -22,7 +22,7 @@ ResEle is a Collection of Elements Created by Bootstrap and TailwindCSS.
 
 ## All Content Topics
 
- - [Components](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Components](https://github.com/mokshverma-dev/ResEle-Bootstrap-and-Tailwind-CSS/blob/main/README.md#components)
  - [Customize](https://github.com/matiassingers/awesome-readme)
 
 
