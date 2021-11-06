@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<h3 align="center"># ResEle -Combination of Bootstrap and TailwindCSS</h3>
 
 
 ![ResEle](https://user-images.githubusercontent.com/72500226/139571032-d1469bab-f475-4a03-88d2-c80464e06101.png)
