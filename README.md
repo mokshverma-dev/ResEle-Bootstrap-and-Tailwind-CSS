@@ -4,7 +4,7 @@
 
 # ResEle -Combination of Bootstrap and TailwindCSS
 
-ResEle is a Collection of Elements Created by Bootstrap and TailwindCSS. 
+ResEle(Resoorces Elements) is a Collection of Elements Created by Bootstrap and TailwindCSS. 
 
 ## Features
 
