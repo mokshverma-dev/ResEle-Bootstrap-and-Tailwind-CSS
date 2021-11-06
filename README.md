@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/72500226/139571032-d1469bab-f475-4a03-88d2-c80464e06101.png" alt="ResEle logo" width="500" height="140">
+    <img src="https://user-images.githubusercontent.com/72500226/139571032-d1469bab-f475-4a03-88d2-c80464e06101.png" alt="ResEle logo" width="500" height="155">
   </a>
 </p>
 
